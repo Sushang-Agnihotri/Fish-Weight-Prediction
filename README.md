@@ -1,4 +1,4 @@
-# FishWeightPrediction_LabAssignment
+# Fish Weight Prediction
 
 The project has been created as part of a Lab Assignment at Durham College.
 
@@ -40,6 +40,9 @@ The application is designed to predict fish weight based on user input regarding
 3. The pre-trained model will receive the input and predict the weight.
 4. The predicted weight will be displayed on the screen.
 
+## Live Application Link
+
+The application is live at : https://fish-weight-prediction-c38d58725df9.herokuapp.com
 ## Contact
 
 For any questions or inquiries, you can reach out to the project author:
